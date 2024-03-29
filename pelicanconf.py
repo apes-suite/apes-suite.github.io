@@ -35,8 +35,7 @@ M_THEME_COLOR = '#cb4b16'
 M_FINE_PRINT = '''
 Mainly developed by `SP of DLR e.V. <https://www.dlr.de/content/en/institutes/institute-of-software-methods-for-product-virtualization.html>`_ in Dresden,
 this page is generated with `pelican <https://getpelican.com>`_
-and uses `m.css <https://mcss.mosra.cz>`_,
-hosted on `OSDN <https://osdn.net>`_.
+and uses `m.css <https://mcss.mosra.cz>`_.
 `Impressum <impressum>`_ und `Datenschutz <datenschutz>`_.
 '''
 M_SITE_LOGO = '/images/apes_logo.png'
@@ -55,8 +54,7 @@ PLUGINS = ['htmlsanity', 'images']
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
