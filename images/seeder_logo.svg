@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.1" baseProfile="full"
+    viewBox="-5 -5 10 10">
+    <title>Seeder logo</title>
+    <desc>Seeder</desc>
+
+<path d="M -4,0
+         A 4,4 0,1,0, 4,0
+         A 2,2 0,0,0, 2,-2
+         A 2,2 0,0,1, 0,-4"
+      stroke="black" stroke-width="0.8"
+      stroke-linecap="round" stroke-linejoin="round"
+      fill="none"/>
+<path d="M 0,-4 L 0,0"
+      stroke="black" stroke-width="0.4"
+      stroke-linecap="round" stroke-linejoin="round"
+      fill="none"/>
+<circle cx="0" cy="0" r="1.2" fill="black" stroke="none" />
+
+</svg>
