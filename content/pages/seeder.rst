@@ -15,9 +15,9 @@ solvers association of boundary conditions with those geometries.
 High-order boundaries can be generated for Lattice Boltzmann (Q-Values) and for
 penalization methods (subresolution).
 
-Its public `source code repository`_ is hosted on OSDN.
+Its public `source code repository`_ is hosted on github.
 Please see the `documentation`_ for its usage and more details.
 
-.. _source code repository: https://osdn.net/projects/apes/scm/hg/seeder/
+.. _source code repository: https://github.com/apes-suite/seeder
 .. _documentation: https://geb.inf.tu-dresden.de/doxy/seeder/index.html
 
