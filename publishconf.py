@@ -14,7 +14,7 @@ M_CSS_FILES = ['https://fonts.googleapis.com/css?family=Libre+Baskerville:400,40
                '/static/m-light.compiled.css']
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://apes.osdn.io'
+SITEURL = 'https://apes-suite.github.io'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
