@@ -8,7 +8,7 @@ Musubi is a parallel multi-level lattice Boltzmann solver that allows for the
 simulation of multiple species with the Maxwell-Stefan model.
 Its main application domain are incompressible flows.
 
-Its public `source code repository`_ is hosted on OSDN.
+Its public `source code repository`_ is hosted on github.
 Please see the `documentation`_ for its usage and more details.
 
 Publications
@@ -64,6 +64,6 @@ https://doi.org/10.1016/j.desal.2015.07.024.
 Journal of Computational Science, Volume 5, Issue 5, (2014), Pages 784-794, ISSN 1877-7503,
 https://doi.org/10.1016/j.jocs.2013.11.001.
 
-.. _source code repository: https://osdn.net/projects/apes/scm/hg/musubi/
+.. _source code repository: https://github.com/apes-suite/musubi
 .. _documentation: https://geb.inf.tu-dresden.de/doxy/musubi/index.html
 

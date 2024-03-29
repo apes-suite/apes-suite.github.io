@@ -14,12 +14,12 @@ It exploits the cubical elements by using efficient dimension by dimension
 algorithms.
 Its main application domain are compressible flows.
 
-Its public `source code repository`_ is hosted on OSDN.
+Its public `source code repository`_ is hosted on github.
 Please see the `documentation`_ for its usage and more details.
 
 Ateles are also known as `spider monkeys`_ [extern] and are one of the fastest monkeys
 living in trees.
 
-.. _source code repository: https://osdn.net/projects/apes/scm/hg/ateles/
+.. _source code repository: https://github.com/apes-suite/ateles
 .. _documentation: https://geb.inf.tu-dresden.de/doxy/ateles/index.html
 .. _spider monkeys: https://en.wikipedia.org/wiki/Spider_monkey
