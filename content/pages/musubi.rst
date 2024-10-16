@@ -13,6 +13,16 @@ Please see the `documentation`_ for its usage and more details.
 
 Publications
 ------------
+**2024**
+
+*Tristan Gerard Vlogman and Kartik Jain*, `Efficient coupled lattice Boltzmann and Discrete Element Method simulations of small particles in complex geometries <https://www.sciencedirect.com/science/article/pii/S0898122124004474>`_,
+Computers & Mathematics with Applications, (2024), Volume 175, Pages 313–329, ISSN 0898-1221,
+https://doi.org/10.1016/j.camwa.2024.10.004.
+
+*Nathan Blanken, Baptiste Heiles, Alina Kuliesh, Michel Versluis, Kartik Jain, David Maresca, Guillaume Lajoinie*, 
+`PROTEUS: A Physically Realistic Contrast-Enhanced Ultrasound Simulator - Part I: Numerical Methods <https://ieeexplore.ieee.org/abstract/document/10597664>`_,
+IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, (2024),
+https://doi.org/10.1109/TUFFC.2024.3427850.
 
 **2023**
 
@@ -21,12 +31,17 @@ Publications
 Computers & Fluids, Volume 255, (2023), 105833, ISSN 0045-7930,
 https://doi.org/10.1016/j.compfluid.2023.105833.
 
-**2022**
-
 *Rutger H.J. Hebbink, Bas J. Wessels, Rob Hagmeijer, Kartik Jain*,
 `Computational analysis of human upper airway aerodynamics. <https://link.springer.com/article/10.1007/s11517-022-02716-8>`_,
 Medical & Biological Engineering & Computing, Volume 61, (2023), Pages 541–553, ISSN 0140-0118,
 https://doi.org/10.1007/s11517-022-02716-8.
+
+**2022**
+
+*Kartik Jain*, `The effect of varying degrees of stenosis on transition to turbulence in oscillatory flows.
+<https://link.springer.com/article/10.1007/s10237-022-01579-0>` _,
+Biomechanics and Modeling in Mechanobiology, (2022), Volume 21, Pages 1029-1041,
+https://doi.org/10.1007/s10237-022-01579-0.
 
 **2019**
 
