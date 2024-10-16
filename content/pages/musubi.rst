@@ -39,7 +39,7 @@ https://doi.org/10.1007/s11517-022-02716-8.
 **2022**
 
 *Kartik Jain*, `The effect of varying degrees of stenosis on transition to turbulence in oscillatory flows.
-<https://link.springer.com/article/10.1007/s10237-022-01579-0>` _,
+<https://link.springer.com/article/10.1007/s10237-022-01579-0>`_,
 Biomechanics and Modeling in Mechanobiology, (2022), Volume 21, Pages 1029-1041,
 https://doi.org/10.1007/s10237-022-01579-0.
 
