@@ -19,5 +19,5 @@ Its public `source code repository`_ is hosted on github.
 Please see the `documentation`_ for its usage and more details.
 
 .. _source code repository: https://github.com/apes-suite/seeder
-.. _documentation: https://geb.inf.tu-dresden.de/doxy/seeder/index.html
+.. _documentation: https://apes-suite.github.io/seeder/index.html
 
