@@ -21,6 +21,6 @@ Aotus is the `Night Monkey`_ [extern]. For APES it talks to the moon (Lua).
 All tools of APES use Aotus to read configuration files.
 
 .. _source code repository: https://github.com/apes-suite/aotus
-.. _documentation: https://geb.inf.tu-dresden.de/doxy/aotus/index.html
+.. _documentation: https://apes-suite.github.io/aotus/index.html
 .. _Lua: https://www.lua.org
 .. _Night Monkey: https://en.wikipedia.org/wiki/Night_monkey
