@@ -17,4 +17,4 @@ Its public `source code repository`_ is hosted on github.
 Please see the `documentation`_ for its usage and more details.
 
 .. _source code repository: https://github.com/apes-suite/treelm
-.. _documentation: https://geb.inf.tu-dresden.de/doxy/treelm/index.html
+.. _documentation: https://apes-suite.github.io/treelm/index.html
