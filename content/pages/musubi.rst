@@ -80,5 +80,5 @@ Journal of Computational Science, Volume 5, Issue 5, (2014), Pages 784-794, ISSN
 https://doi.org/10.1016/j.jocs.2013.11.001.
 
 .. _source code repository: https://github.com/apes-suite/musubi
-.. _documentation: https://geb.inf.tu-dresden.de/doxy/musubi/index.html
+.. _documentation: https://apes-suite.github.io/musubi/index.html
 
