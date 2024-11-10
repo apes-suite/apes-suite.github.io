@@ -21,5 +21,5 @@ Ateles are also known as `spider monkeys`_ [extern] and are one of the fastest m
 living in trees.
 
 .. _source code repository: https://github.com/apes-suite/ateles
-.. _documentation: https://geb.inf.tu-dresden.de/doxy/ateles/index.html
+.. _documentation: https://apes-suite.github.io/ateles/index.html
 .. _spider monkeys: https://en.wikipedia.org/wiki/Spider_monkey
