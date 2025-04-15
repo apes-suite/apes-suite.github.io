@@ -13,9 +13,19 @@ Please see the `documentation`_ for its usage and more details.
 
 Publications
 ------------
+**2025**
+
+*Tristan G. Vlogman, Jan van der Hoek, Tess Snoeijink, Rob Hagmeijer, Erik Groot-Jebbink and Kartik Jain*, `Impact of injection velocity on catheter-based drug delivery in bifurcating vessels: In silico and in vitro analysis <https://pubs.aip.org/aip/pof/article/37/4/041905/3344041/Impact-of-injection-velocity-on-catheter-based>`_,
+Physics of Fluids, (2025), Volume 37, Pages 041905, ISSN 1089-7666,
+https://doi.org/10.1063/5.0263975.
+
+*Tristan G. Vlogman, Rob Hagmeijer and Kartik Jain*, `A systematic comparison of fully resolved and unresolved particulate flow simulations using the lattice Boltzmann and discrete element methods <https://pubs.aip.org/aip/pof/article/37/3/033305/3338237>`_,
+Physics of Fluids, (2025), Volume 37, Pages 033305, ISSN 1089-7666,
+https://doi.org/10.1063/5.0253313.
+
 **2024**
 
-*Tristan Gerard Vlogman and Kartik Jain*, `Efficient coupled lattice Boltzmann and Discrete Element Method simulations of small particles in complex geometries <https://www.sciencedirect.com/science/article/pii/S0898122124004474>`_,
+*Tristan G. Vlogman and Kartik Jain*, `Efficient coupled lattice Boltzmann and Discrete Element Method simulations of small particles in complex geometries <https://www.sciencedirect.com/science/article/pii/S0898122124004474>`_,
 Computers & Mathematics with Applications, (2024), Volume 175, Pages 313–329, ISSN 0898-1221,
 https://doi.org/10.1016/j.camwa.2024.10.004.
 
